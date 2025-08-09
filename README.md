@@ -1,1 +1,1 @@
-This repository includes all necessary files for deep learning lab 1 exercises
+This repository includes all answers and necessary files for deep learning lab 1 exercises

@@ -1,1 +1,1 @@
-SL-4050-DL_LAB_01
+This repository includes all necessary files for deep learning lab 1 exercises
